@@ -1,7 +1,6 @@
-
- h1{ color:orange; } 
+h1{ color:orange; } 
   
- span{ color:cornflowerblue;}
+span{ color:cornflowerblue;}
 
  h2{background: linear-gradient(30deg,#dc6b9a,#a7d28d);color:white;}
 
@@ -15,5 +14,5 @@
 
 .box {
 width: 55%;
-height: 50%;
+height: 50px;
 }
