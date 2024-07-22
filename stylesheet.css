@@ -1,0 +1,19 @@
+
+ h1{ color:orange; } 
+  
+ span{ color:cornflowerblue;}
+
+ h2{background: linear-gradient(30deg,#dc6b9a,#a7d28d);color:white;}
+
+ .hituzi { color:#2e8b57;}
+
+ .saigoni { color: #dc143c;}
+
+ .usiro { background: #87ceeb;}
+
+ .haikei{ background: #ffdead;}
+
+.box {
+width: 55%;
+height: 50%;
+}
